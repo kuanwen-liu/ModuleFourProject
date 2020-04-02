@@ -1,13 +1,9 @@
-.container {
-  width:100%;
-  margin: 0 auto;
-}
-
+/* all data show in the same line */
 main {
   display:flex;
-  justify-content:space-between;
 }
 
+/* set images size */
 img {
   width: 270px;
 }
