@@ -1,0 +1,13 @@
+.container {
+  width:100%;
+  margin: 0 auto;
+}
+
+main {
+  display:flex;
+  justify-content:space-between;
+}
+
+img {
+  width: 270px;
+}

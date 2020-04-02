@@ -1,0 +1,54 @@
+{
+  "strangeProducts":[
+    {
+      "name": "1,500 live ladybugs",
+      "price": 3.05,
+      "details": [
+        "1500 Live Ladybugs, Live Delivery Guaranteed!!",
+        "Ladybugs are good bugs great for kids, birthday parties, school projects!",
+        "Nature's Good Guys mesh bag of Live adult ladybugs"
+      ],
+      "image": "product-1.jpg"
+    },
+    {
+      "name": "A cat butt tissue holder",
+      "price": 34.94,
+      "details": [
+        "FITS SQUARE TISSUE BOXES - Measures 12.5\" long x 9.25\" wide, fits standard square tissue boxes.",
+        "MAKES A GREAT GIFT - Cat lovers far and wide will chuckle and love this hilarious tissue box holder.",
+        "QUALITY MATERIALS - Each Cat Butt tissue holder is made of molded resin that's easy to clean and designed to last."
+      ],
+      "image": "product-2.jpg"
+    },
+    {
+      "name": "A wall decal of senior citizens in a golf cart",
+      "price": 21.96,
+      "details": [
+        "SAFE ON PAINTED WALLS- Removable and repositionable with no sticky residue. Perfect for nurseries, apartments, dorm rooms, and businesses. Wall decal stickers are mess-free, no paint, no glue/paste, no residue.",
+        "EASY AND FUN TO APPLY. SIMPLY PEEL AND STICK - Our decals can be applied on most flat surfaces, including slightly textured walls, mirrors, or any smooth surface.",
+        "100% MADE IN THE USA- We love our decals and think you will love them, too."
+      ],
+      "image": "product-3.jpg"
+    },
+    {
+      "name": "A bacon-scented mustache",
+      "price": 4.07,
+      "details": [
+        "Like some weird, macho mad scientist, we took the two most masculine things we could think of (mustaches and bacon) and mixed them into one super product.",
+        "This carded 4\" (10.2 cm) wide mustache with adhesive backing is made of lifelike synthetic hair and smells like bacon.",
+        "The perfect thing to wear while woodworking, fishing or internalizing your emotions."
+      ],
+      "image": "product-4.jpg"
+    },
+    {
+      "name": "Dill pickle lip balm",
+      "price": 11.95,
+      "details": [
+        "IT’S DILL-ICIOUS – Sweet pickles are okay and all, but everyone knows that the dill is the real hero in the pickle world. Enjoy that delicious dill pickle flavor anytime, anywhere!",
+        "FUNNY STOCKING STUFFERS FOR TEENS AND ADULTS – Unusual gag gifts make happy surprises for any occasion! Dill Pickle Lip Balm is perfect for birthdays, holidays, and unexpected ‘Thinking of You’ surprises.",
+        "FUNNY GIFT FOR PICKLE LOVERS – This standard size pickle lip balm comes in a green 4.5g tube which features a happy pickle suggesting you “pucker up!”"
+      ],
+      "image": "product-5.jpg"
+    }
+  ]
+}
